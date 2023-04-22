@@ -1,6 +1,6 @@
 import React, { useState, useContext, useEffect } from 'react'
 
-export const API_ENDPOINT = `http://www.omdbapi.com/?apikey=fd79223f`
+export const API_ENDPOINT = `https://www.omdbapi.com/?apikey=fd79223f`
 
 const AppContext = React.createContext()
 
